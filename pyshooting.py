@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import pygame
 import sys
 import random
@@ -199,10 +193,3 @@ def runGame():
 
 initGame()
 runGame()
-
-
-# In[ ]:
-
-
-
-
